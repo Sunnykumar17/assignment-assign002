@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #fd5c63;
+}
+.main{
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+}
+.item{
+  margin-top: 150px;
+}
+.item h3 {
+  margin-left: 70px;
+  margin-top: 50px;
+}
+.pic{
+  width: 120px;
+  height: 120px;
+  margin-left: 70px;
+  /* margin-top: 50px; */
+ 
+}
+.para{
+  margin-left: 110px;
+}
